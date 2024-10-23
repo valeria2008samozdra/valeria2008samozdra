@@ -13,5 +13,14 @@
     <script src="script.js"></script>
 </body>
 <html>
-  window.onload = function() {
-    alert('Вітаю вас на моєму сайті!');};
+ .main-title { color: blue;
+    text-align: center;
+    font-size: 2em;}
+
+.formatted-text { font-family: Arial, sans-serif;
+    font-size: 1.2em;
+    line-height: 1.5;
+    margin: 20px} 
+    window.onload = function()
+    {alert('Вітаю вас на моєму сайті!');};
+    
